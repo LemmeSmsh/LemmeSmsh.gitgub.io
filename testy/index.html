@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Testy</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Main Window -->
+
+	<div class="container">
+
+		<!-- Menu Window -->
+
+		<nav class="nav">
+			<div class="profile navbar">Личный кабинет</div>
+			<div class="payments navbar">Платежи</div>
+			<div class="history navbar">История платежей</div>
+			<div class="settings navbar">Настройки</div>
+			<div class="exit navexit">Выйти</div>
+		</nav>
+
+		<!-- /Menu Window -->
+
+		<!-- Pay Window -->
+
+		<div class="payWindow">
+
+			<!-- Payment Information -->
+
+			<div class="infoPlace">
+
+				<p>Информация по оплате:</p>
+
+				<p>
+					<span class="account">Номер счета:</span>
+					<span class="blackText">87123658716587</span>
+				</p>	
+				<p>
+					<span class="price">Сумма платежа:</span>
+					<span class="blackText">100 руб.</span></p>
+				</p>
+
+			</div>
+            
+            <!-- Payment Information -->
+
+            <!-- Card Form -->
+            
+            <h3>Данные банковской карты</h3>
+
+			<form>	
+				<div class="cardForm">
+            <div class="cardTop">        
+                <!-- Card Number -->
+                <p>Номер карты</p>
+
+                <div class="cardNumGroup">
+				    <input type="text" maxlength="4" class="cardNumberField">
+				    <input type="text" maxlength="4" class="cardNumberField">
+				    <input type="text" maxlength="4" class="cardNumberField">
+			        <input type="text" maxlength="4" class="cardNumberField">
+                </div>
+
+			    <p>Срок действия</p>
+
+                <!-- Card Date -->
+			    <select value="01" class="cardDateMonth">
+			    	<option name="01" id="">01</option>
+			    	<option name="02" id="">02</option>
+			    	<option name="03" id="">03</option>
+			    	<option name="04" id="">04</option>
+			    	<option name="05" id="">05</option>
+			    	<option name="06" id="">06</option>
+			    	<option name="07" id="">07</option>
+			    	<option name="08" id="">08</option>
+			    	<option name="09" id="">09</option>
+			    	<option name="10" id="">10</option>
+			    	<option name="11" id="">11</option>
+			    	<option name="12" id="">12</option>
+			    </select>
+			    <select value="19" class="cardDateYear">
+			    	<option name="19" id="">2019</option>
+			    	<option name="20" id="">2020</option>
+			    	<option name="21" id="">2021</option>
+			    	<option name="22" id="">2022</option>
+			    	<option name="23" id="">2023</option>
+			    	<option name="24" id="">2024</option>
+			    	<option name="25" id="">2025</option>
+			    	<option name="26" id="">2026</option>
+			    	<option name="27" id="">2027</option>
+			    	<option name="28" id="">2028</option>
+			    </select>
+
+			    <!-- Cardholder -->
+
+			    <input type="text" class="cardholderField" placeholder="Держатель карты"> 
+
+            </div>
+            <div class="cardBottom">
+
+			    <!-- Card CVV -->
+			    <div class="greyField"></div>
+			    <p>Код CVV2 / CVC2</p>
+			    <input type="text" maxlength="3" class="cardCVV">
+
+            </div>
+            </div>   
+                <!-- Submit Button -->
+                <input type="submit" value="Оплатить" id="submitbtn">
+
+		    </form>
+
+		    <!-- /Card Form -->
+
+            <!-- Footer --> 
+            <footer>
+	    	    <p>Lorem</p>
+	    	    <p>Ipsum</p>
+	    	    <p>Can't remember</p>
+	    	    <p>The next line</p>
+	        </footer>
+            <!-- /Footer -->
+
+		</div>
+
+		<!-- /Pay Window -->  
+
+       
+
+ 
+
+
+	</div>
+
+<script src="qjuery.js"></script>
+<script src="validation.js"></script>
+<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
+</body>
+</html>
