@@ -1,0 +1,1010 @@
+[
+ {
+   "key": "MainPage",
+   "ru": "Главная страница",
+   "sr": "Naslovna strana",
+   "en": "Home",
+   "de": "Startseite"
+ },
+ {
+   "key": "Rent",
+   "ru": "Аренда",
+   "sr": "Iznajmljivanje",
+   "en": "Rent",
+   "de": "Vermietung"
+ },
+ {
+   "key": "CommercialRealEstate",
+   "ru": "Коммерчекая недвижимость",
+   "sr": "Komercijalna nekretnina",
+   "en": "Commercial real estate",
+   "de": "Gewerbeimmobilien"
+ },
+ {
+   "key": "Specialists",
+   "ru": "Специалисты",
+   "sr": "Stručnjaci",
+   "en": "Specialists",
+   "de": "Spezialisten"
+ },
+ {
+   "key": "Blog",
+   "ru": "Блог",
+   "sr": "Blog",
+   "en": "Blog",
+   "de": "Blog"
+ },
+ {
+   "key": "Rates",
+   "ru": "Тарифы",
+   "sr": "Tarife",
+   "en": "Rates",
+   "de": "Tarife"
+ },
+ {
+   "key": "Help",
+   "ru": "Справка",
+   "sr": "Informacije",
+   "en": "Help",
+   "de": "Hilfe"
+ },
+ {
+   "key": "Cost",
+   "ru": "Цена (стоимость)",
+   "sr": "Cena (vrednost)",
+   "en": "Price (cost)",
+   "de": "Preis"
+ },
+ {
+   "key": "Min",
+   "ru": "от",
+   "sr": "od",
+   "en": "min.",
+   "de": "von"
+ },
+ {
+   "key": "Max",
+   "ru": "до",
+   "sr": "do",
+   "en": "max.",
+   "de": "bis"
+ },
+ {
+   "key": "Buy",
+   "ru": "Купить",
+   "sr": "Kupiti",
+   "en": "Buy",
+   "de": "kaufen"
+ },
+ {
+   "key": "Rent",
+   "ru": "Арендовать (Снять в аренду)",
+   "sr": "Iznajmiti",
+   "en": "Rent",
+   "de": "mieten"
+ },
+ {
+   "key": "Apartments",
+   "ru": "Квартира ",
+   "sr": "Stan",
+   "en": "Apartments",
+   "de": "Wohnung"
+ },
+ {
+   "key": "ApartmentsRentBuy",
+   "ru": "Квартиру (снять/ купить квартиру)",
+   "sr": "Stan (kupiti/iznajmiti)",
+   "en": "Apartments (rent/buy)",
+   "de": "Wohnung mieten/kaufen"
+ },
+ {
+   "key": "Room",
+   "ru": "Конманта",
+   "sr": "Soba",
+   "en": "Room",
+   "de": "Zimmer"
+ },
+ {
+   "key": "Room",
+   "ru": "Комнату",
+   "sr": "Sobu",
+   "en": "Room",
+   "de": "Zimmer"
+ },
+ {
+   "key": "Office",
+   "ru": "Офис",
+   "sr": "Kancelarija",
+   "en": "Office",
+   "de": "Büro"
+ },
+ {
+   "key": "Address",
+   "ru": "Адрес",
+   "sr": "Adresa",
+   "en": "Address",
+   "de": "Adresse"
+ },
+ {
+   "key": "District",
+   "ru": "Район",
+   "sr": "Opština",
+   "en": "District",
+   "de": "Gebiet"
+ },
+ {
+   "key": "OnTheMap",
+   "ru": "На карте",
+   "sr": "Na mapi",
+   "en": "On the map",
+   "de": "Auf der Karte"
+ },
+ {
+   "key": "Search",
+   "ru": "Поиск",
+   "sr": "Pretraga",
+   "en": "Search",
+   "de": "Suche"
+ },
+ {
+   "key": "BuyPrivateRealEstate",
+   "ru": "Купить частную недвижимость",
+   "sr": "Kupiti privatne nekretnine",
+   "en": "Buy private real estate",
+   "de": "Privatimmobilie kaufen"
+ },
+ {
+   "key": "RealEstateForRent",
+   "ru": "Аренда недвижимости",
+   "sr": "Iznajmljivanje nekretnina",
+   "en": "Real estate for rent",
+   "de": "Immobilien mieten"
+ },
+ {
+   "key": "1_bedroom_one_bedroom",
+   "ru": "1-комнатные (однокомнатные)",
+   "sr": "Jednosobne",
+   "en": "1-bedroom (one-bedroom)",
+   "de": "1 Zimmer"
+ },
+ {
+   "key": "2_bedroom_two_bedroom",
+   "ru": "2-комнатные (двухкомнатные)",
+   "sr": "Dvosobne",
+   "en": "2-bedroom (two-bedroom)",
+   "de": "2 Zimmer"
+ },
+ {
+   "key": "3-bedroom (three-bedroom)",
+   "ru": "3-комнатные (трёх комнатные)",
+   "sr": "Trosobne",
+   "en": "3-bedroom (three-bedroom)",
+   "de": "3 Zimmer"
+ },
+ {
+   "key": "OpenConceptApartments",
+   "ru": "Свободная планировка",
+   "sr": "Slobodno uređenje",
+   "en": "Open concept apartments",
+   "de": "Freie Planung"
+ },
+ {
+   "key": "StudioApartments",
+   "ru": "Квартиры-студии",
+   "sr": "Garsonjere",
+   "en": "Studio apartments",
+   "de": "Wohnungen-Studio"
+ },
+ {
+   "key": "NewBuildings",
+   "ru": "Новостройки",
+   "sr": "Novogradnja",
+   "en": "New buildings",
+   "de": "Neubau"
+ },
+ {
+   "key": "CatalogueOfResidentialComplexes",
+   "ru": "Каталог ЖК",
+   "sr": "Katalog SO",
+   "en": "Catalogue of residential complexes",
+   "de": "Immobilienkatalog"
+ },
+ {
+   "key": "CommissionedNewBuildings",
+   "ru": "Сданные новостройки",
+   "sr": "Završena novogradnja",
+   "en": "Commissioned new buildings",
+   "de": "Fertiger Neubau"
+ },
+ {
+   "key": "BuildingsUnderConstruction",
+   "ru": "Строящиеся новостройки",
+   "sr": "Novogradnja u gradnji",
+   "en": "Buildings under construction",
+   "de": "Gebäude im Bau"
+ },
+ {
+   "key": "CountrysideRealEstate",
+   "ru": "Загородная недвижимость",
+   "sr": "Nekretnine van grada",
+   "en": "Countryside real estate",
+   "de": "Landimmobilien"
+ },
+ {
+   "key": "House",
+   "ru": "Дом",
+   "sr": "Kuća",
+   "en": "House",
+   "de": "Haus"
+ },
+ {
+   "key": "ResidentialAllotment",
+   "ru": "Участок",
+   "sr": "Plac",
+   "en": "Residential allotment",
+   "de": "Grundstück"
+ },
+ {
+   "key": "TownHouse",
+   "ru": "Таунхаус",
+   "sr": "Taunhaus",
+   "en": "Town house",
+   "de": "Stadthaus"
+ },
+ {
+   "key": "ApartmentsForRent",
+   "ru": "Снять квартиру (арендовать квартиру)",
+   "sr": "Iznajmiti stan",
+   "en": "Apartments for rent",
+   "de": "Wohnung mieten"
+ },
+ {
+   "key": "HousesForRentLongTerm",
+   "ru": "Снять дом на долго (долгосрочная аренда квартиры)",
+   "sr": "Iznajmiti kuću na duže",
+   "en": "Houses for rent (long term)",
+   "de": "Langzeitmiete Haus/Wohnung"
+ },
+ {
+   "key": "DailyRent",
+   "ru": "Снять посуточно",
+   "sr": "Iznajmiti na dan",
+   "en": "Daily rent",
+   "de": "Tagesmiete"
+ },
+ {
+   "key": "Villa",
+   "ru": "Коттедж ",
+   "sr": "Porodična kuća",
+   "en": "Villa",
+   "de": "Villa"
+ },
+ {
+   "key": "Villen",
+   "ru": "Коттеджи",
+   "sr": "Porodične kuće",
+   "en": "Villas",
+   "de": "Villen"
+ },
+ {
+   "key": "Hostel",
+   "ru": "Хостелы",
+   "sr": "Hosteli",
+   "en": "Hostels",
+   "de": "Hostel"
+ },
+ {
+   "key": "BuyCommercialRealEstate",
+   "ru": "Купить коммерческую недвижимость",
+   "sr": "Kupiti komercijalne nekretnine",
+   "en": "Buy commercial real estate",
+   "de": "Kauf von Gewerbeimmobilien"
+ },
+ {
+   "key": "CommercialRealEstateForRent",
+   "ru": "Аренда коммерческой недвижимости",
+   "sr": "Iznajmljivanje komercijalne nekretnine",
+   "en": "Commercial real estate for rent",
+   "de": "Anmietung von Gewerbeimmobilien"
+ },
+ {
+   "key": "Warehouse",
+   "ru": "Склад",
+   "sr": "Magacin",
+   "en": "Warehouse",
+   "de": "Lager"
+ },
+ {
+   "key": "Garage",
+   "ru": "Гараж",
+   "sr": "Garaža",
+   "en": "Garage",
+   "de": "Garage"
+ },
+ {
+   "key": "Office",
+   "ru": "Офис",
+   "sr": "Kancelarija",
+   "en": "Office",
+   "de": "Büro"
+ },
+ {
+   "key": "Offices",
+   "ru": "Офисы",
+   "sr": "Kancelarije",
+   "en": "Offices",
+   "de": "Büros"
+ },
+ {
+   "key": "Premises",
+   "ru": "Помещения",
+   "sr": "Prostorije",
+   "en": "Premises",
+   "de": "Räume"
+ },
+ {
+   "key": "ShoppingFloorSpace",
+   "ru": "Торговая площадь",
+   "sr": "Lokal",
+   "en": "Shopping floor space",
+   "de": "Verkaufsfläche"
+ },
+ {
+   "key": "AgenciesRealEstateAgencies",
+   "ru": "Агенства (агенства по недвижимости)",
+   "sr": "Agencije (agencije nekretnina)",
+   "en": "Agencies (real estate agencies)",
+   "de": "Makler Agenturen"
+ },
+ {
+   "key": "RealEstateBrokers",
+   "ru": "Риэлторы",
+   "sr": "Rijeltori",
+   "en": "Real estate brokers",
+   "de": "Makler"
+ },
+ {
+   "key": "Developers",
+   "ru": "Застройщики",
+   "sr": "Graditelji",
+   "en": "Developers",
+   "de": "Bauunternehmen"
+ },
+ {
+   "key": "Offer",
+   "ru": "Предложение",
+   "sr": "Ponuda",
+   "en": "Offer",
+   "de": "Angebot"
+ },
+ {
+   "key": "Offers",
+   "ru": "Предложений",
+   "sr": "Ponuda",
+   "en": "Offers",
+   "de": "Angebote"
+ },
+ {
+   "key": "SearchOnTheMap",
+   "ru": "Поиск на карте",
+   "sr": "Pretraga na mapi",
+   "en": "Search on the map",
+   "de": "Suchen auf der Karte"
+ },
+ {
+   "key": "Blog",
+   "ru": "Блог",
+   "sr": "Blog",
+   "en": "Blog",
+   "de": "Blog"
+ },
+ {
+   "key": "Articles",
+   "ru": "Статьи",
+   "sr": "Članci",
+   "en": "Articles",
+   "de": "Artikel"
+ },
+ {
+   "key": "AskTheRealEstateBroker",
+   "ru": "Вопросы риэлтору",
+   "sr": "Pitanja za rijeltora",
+   "en": "Ask the real estate broker",
+   "de": "Fragen an den Makler"
+ },
+ {
+   "key": "News",
+   "ru": "Новости",
+   "sr": "Vesti",
+   "en": "News",
+   "de": "Nachrichten"
+ },
+ {
+   "key": "SubscribeForNewsletters",
+   "ru": "Подпишитесь на новостную рассылку ",
+   "sr": "Dobijati newsseller",
+   "en": "Subscribe for newsletters",
+   "de": "Abonnieren Sie den Newsletter"
+ },
+ {
+   "key": "Subscribe",
+   "ru": "Подписаться",
+   "sr": "Pratiti",
+   "en": "Subscribe",
+   "de": "Abonnieren"
+ },
+ {
+   "key": "MakeTransactionsFaster",
+   "ru": "Ускоряйте сделки",
+   "sr": "Ubrzati sporazum",
+   "en": "Make transactions faster",
+   "de": "Geschäft beschleunigen"
+ },
+ {
+   "key": "YouWillGetTwiceAsManyCallsWithPremiumAds ",
+   "ru": "Премиум-размещение увеличивает количество звонков в 2 раза",
+   "sr": "Premijum-objava - dvaput veći broj poziva",
+   "en": "You will get twice as many calls with Premium ads ",
+   "de": "Mit Premium-Anzeigen erhalten Sie doppelt so viele Anrufe"
+ },
+ {
+   "key": "BuyPremium",
+   "ru": "Купить премиум",
+   "sr": "Kupiti premijum",
+   "en": "Buy Premium",
+   "de": "Premium kaufen"
+ },
+ {
+   "key": "PostAds",
+   "ru": "Размещайте объявления",
+   "sr": "Objavite oglas",
+   "en": "Post ads",
+   "de": "Anzeige Schalten"
+ },
+ {
+   "key": "PostAnAd",
+   "ru": "Добавить объявление",
+   "sr": "Dodati oglas",
+   "en": "Post an ad",
+   "de": "Anzeige hinzufügen"
+ },
+ {
+   "key": "",
+   "ru": "Ищите на карте",
+   "sr": "Tražite na mapi",
+   "en": "Go to the map",
+   "de": "Suche auf der Karte"
+ },
+ {
+   "key": "",
+   "ru": "Найти на карте",
+   "sr": "Naći na mapi",
+   "en": "Search on the map",
+   "de": "Auf der Karte finden"
+ },
+ {
+   "key": "",
+   "ru": "Отсканируйте QR-код, чтобы скачать приложение AGENTA",
+   "sr": "Skenirajte QR-kod da biste preuzeli aplikaciju AGENTA",
+   "en": "Use this QR code to download AGENTA app",
+   "de": "Scannen Sie den QR-Code, um die App AGENTA herunterzuladen"
+ },
+ {
+   "key": "",
+   "ru": "Аренда и продажа недвижимости в Сербии",
+   "sr": "Iznajmljivanje i prodaja nekretnina u Srbiji",
+   "en": "Real estate for rent in Serbia",
+   "de": "Vermietung und Verkauf von Immobilien in Serbien"
+ },
+ {
+   "key": "",
+   "ru": "На сайте Agenta вы найдёте объекты по аренде и продаже недвижимости в Сербии. Все квартиры, дома и другие объекты проверены профессиональными модераторами. Для удобства вы можете загрузить мобильное приложение на iPhone и Android, а также легко подбирать объекты благодаря структурированному каталогу и «умному» поиску на нашем сайте.  Все объекты, которые Вас заинтересовали можно найти в личном кабинете при помощи добавления в \"Избранное\". Проверенное жильё в Сербии находится на Agenta.",
+   "sr": "Na sajtu Agenta naći ćete objekte za iznajmljivanje i prodaju nekretnina u Srbiji. Sve stanove, kuće i druge objekte su se proveravali profesijonalnim moderatorima. Za lakše korišćenje možete da preuzmete mobilnu aplikaciju za iPhone i Android, takođe možete lako birati objekte zahvaljujući udobnom katalogu i \"pametnoj\" pretrazi na našem sajtu. Svi objekti koji su izazvali vaše interesovanje možete naći u ličnom kabinetu pomoću dodavanja u \"Odabrano\". Sigurni stambeni objekti u Srbiji se nalaze na Agenta. ",
+   "en": "Agenta will help you find any real estate for sale or rent in Serbia. All apartments, houses and other premises were cheched by our professional moderators. Download our mobile app for iPhone and Android and choose any premises you wish. Moreover, you can use our website with a structured catalogue and smart searching implemented. You can add all real estate items you are interested in to \"Favourites\" and find them in your personal account. Reliable housing in Serbia is on Agenta.",
+   "de": "Auf der Agenta-Webseite finden Sie Immobilien zum Mieten und Verkaufen in Serbien. Alle Wohnungen, Häuser und sonstigen Objekte werden von professionellen Moderatoren geprüft. Sie können die mobile Anwendung auf IOS (iPhone) und Android herunterladen und dank eines strukturierten Verzeichnisses und der intelligenten Suche auf unserer Website Objekte problemlos finden. Alle Objekte, an denen Sie interessiert sind, können in Ihrem Konto gespeichert werden, indem Sie die Objekte den \"Favoriten\" hinzufügen. Geprüfte Wohnungen in Serbien befinden sich auf Agenta."
+ },
+ {
+   "key": "",
+   "ru": "Область (округ)",
+   "sr": "Regija (opština)",
+   "en": "Region",
+   "de": "Gebiert"
+ },
+ {
+   "key": "",
+   "ru": "Город",
+   "sr": "Grad",
+   "en": "City (town)",
+   "de": "Stadt"
+ },
+ {
+   "key": "",
+   "ru": "Район (район города)",
+   "sr": "Gradska opština",
+   "en": "District",
+   "de": "Stadtteil"
+ },
+ {
+   "key": "",
+   "ru": "Справочный центр",
+   "sr": "Centar za informacije",
+   "en": "Help centre",
+   "de": "Service-Center"
+ },
+ {
+   "key": "",
+   "ru": "Контакты",
+   "sr": "Kontakt",
+   "en": "Contact us",
+   "de": "Kontakte"
+ },
+ {
+   "key": "",
+   "ru": "Реклама на сайте",
+   "sr": "Reklama na sajtu",
+   "en": "Webite advertising",
+   "de": "Werbung auf der Seite"
+ },
+ {
+   "key": "",
+   "ru": "Продвижение",
+   "sr": "Napredovanje",
+   "en": "Promotion",
+   "de": "Promotion"
+ },
+ {
+   "key": "",
+   "ru": "Склады",
+   "sr": "Magacini",
+   "en": "Warehouses",
+   "de": "Lager"
+ },
+ {
+   "key": "",
+   "ru": "Класс А/B/C (класс недвижимости)",
+   "sr": "Klasa A/B/S (klasa nekretnina)",
+   "en": "А/B/C class (real estate class)",
+   "de": "Klasse A/B/C Immobilienklasse"
+ },
+ {
+   "key": "",
+   "ru": "Производство (производственные помещения/ помещения под производство)",
+   "sr": "Proizvodnja (cehovi i prostorije za proizvodnju)",
+   "en": "Industrial spaces",
+   "de": "Produktion (Produktionsgebäude / Gebäude für die Produktion)"
+ },
+ {
+   "key": "",
+   "ru": "Здание (помещение)",
+   "sr": "Zgrada (prostor)",
+   "en": "Building (premises)",
+   "de": "Gebäude"
+ },
+ {
+   "key": "",
+   "ru": "С типовым ремонтом",
+   "sr": "Sa tipskim renoviranjem",
+   "en": "Standard repair",
+   "de": "Renovierung Typ"
+ },
+ {
+   "key": "",
+   "ru": "Первая линия",
+   "sr": "Prva linija",
+   "en": "Red line",
+   "de": "Erste Linie"
+ },
+ {
+   "key": "",
+   "ru": "Коммерческая земля",
+   "sr": "Komercijalni plac",
+   "en": "Commercial land",
+   "de": "Gewerbegrundstücke"
+ },
+ {
+   "key": "",
+   "ru": "Гараж (гаражи)",
+   "sr": "Garaža (garaže)",
+   "en": "Garage (garages)",
+   "de": "Garage"
+ },
+ {
+   "key": "",
+   "ru": "Бокс (боксы)",
+   "sr": "Boks (boksovi)",
+   "en": "Indoor parking space (indoor parking spaces)",
+   "de": "Tiefgarage"
+ },
+ {
+   "key": "",
+   "ru": "Под магарин ",
+   "sr": "Za prodavnicu",
+   "en": "For a store",
+   "de": "Für ein Laden"
+ },
+ {
+   "key": "",
+   "ru": "Под кафе",
+   "sr": "Za kafić",
+   "en": "For a caffee",
+   "de": "Für ein Cafe"
+ },
+ {
+   "key": "",
+   "ru": "Под салон красоты",
+   "sr": "Za salon lepote",
+   "en": "For a beauty parlor",
+   "de": "Für ein Schönheitssalon"
+ },
+ {
+   "key": "",
+   "ru": "Под продукты (под продуктовые магазины)",
+   "sr": "Za prodavnicu prehrambenih proizvoda",
+   "en": "For a food store",
+   "de": "Für ein Lebensmittelgeschäft"
+ },
+ {
+   "key": "",
+   "ru": "Под аптеку",
+   "sr": "Za apoteku",
+   "en": "For a drug store",
+   "de": "Für eine Apotheke"
+ },
+ {
+   "key": "",
+   "ru": "Под шоурум",
+   "sr": "Za šourum",
+   "en": "For a show-room",
+   "de": "Für einen Showroom (Ausstellungsraum)"
+ },
+ {
+   "key": "",
+   "ru": "Квартиры без посредников",
+   "sr": "Stanovi bez provizije",
+   "en": "Apartments with no middlemen",
+   "de": "Immobilien ohne Makler"
+ },
+ {
+   "key": "",
+   "ru": "Бизнес-центры (Бизнес-центры в бизнес-центре)",
+   "sr": "Biznis-centri (biznis-centri u biznis centru)",
+   "en": "Business centres (business centres in a business centre)",
+   "de": "Businesscenter (Businesscenter im Businesscenter)"
+ },
+ {
+   "key": "",
+   "ru": "Комментарии (коментариев)",
+   "sr": "Komentari (komentara)",
+   "en": "Comments (comments)",
+   "de": "Kommentare"
+ },
+ {
+   "key": "",
+   "ru": "В избраннон  (добавить в избранное)  ",
+   "sr": "U odabrano (dodati u odabrano)",
+   "en": "Added to favourites (add to favourites)",
+   "de": "Zu Favoriten hinzufügen"
+ },
+ {
+   "key": "",
+   "ru": "Ответить на комментарий (ответить)",
+   "sr": "Odgovoriti na komentar",
+   "en": "Add a reply (reply)",
+   "de": "Auf Kommentar antworten"
+ },
+ {
+   "key": "",
+   "ru": "Все комментарии",
+   "sr": "Svi komentari",
+   "en": "All comments",
+   "de": "Alle Kommentare"
+ },
+ {
+   "key": "",
+   "ru": "Оставить комментарий",
+   "sr": "Dodati komentar",
+   "en": "Post a comment",
+   "de": "Kommentar schreiben"
+ },
+ {
+   "key": "",
+   "ru": "Другие материалы по теме",
+   "sr": "Drugi materijali ove teme",
+   "en": "Other information on the subject",
+   "de": "Andere Informationen zu dem Thema"
+ },
+ {
+   "key": "",
+   "ru": "Сейчас обсуждают (рекомендации коментируемых статей)",
+   "sr": "Trenutno pričaju (preporuka članaka koji se često komentarišu)",
+   "en": "Under discussion (recommended articles that are actively talked about)",
+   "de": "Aktuelle Diskussion (Artikel mit meisten Kommentaren)"
+ },
+ {
+   "key": "",
+   "ru": "Все публикации",
+   "sr": "Sve objave",
+   "en": "All articles",
+   "de": "Alle Veröffentlichungen"
+ },
+ {
+   "key": "",
+   "ru": "Просмотра (просмотров)",
+   "sr": "Pregledi (pregleda)",
+   "en": "Views (views)",
+   "de": "Aufrufe"
+ },
+ {
+   "key": "",
+   "ru": "Вход",
+   "sr": "Ulaz",
+   "en": "Log In",
+   "de": "Einloggen"
+ },
+ {
+   "key": "",
+   "ru": "Регистрация",
+   "sr": "Prijava",
+   "en": "Sign Up",
+   "de": "Registrieren"
+ },
+ {
+   "key": "",
+   "ru": "Запомнить меня (для формы авторизации)",
+   "sr": "Zapamtiti me (za autorizaciju)",
+   "en": "Keep me logged in",
+   "de": "Login speichern"
+ },
+ {
+   "key": "",
+   "ru": "Забыли пароль?",
+   "sr": "Zaboravili ste lozinku?",
+   "en": "Forgot password?",
+   "de": "Password vergessen"
+ },
+ {
+   "key": "",
+   "ru": "Войти",
+   "sr": "Ući",
+   "en": "Log in",
+   "de": "Einlogen"
+ },
+ {
+   "key": "",
+   "ru": "При входе, вы принимаете условия  Политики\nконфиденциальности и пользовательского соглашения",
+   "sr": "Ulazeći prihvatate uslovi Politike konfidencijalnosti i korisničke saglasnosti",
+   "en": "By logging in you accept the Privacy Policy and User Agreement",
+   "de": "Beim Einlogen akzeptieren Sie die Bedingungen der Richtlinie,\n Datenschutz und Nutzungsvereinbarung"
+ },
+ {
+   "key": "",
+   "ru": "Неверный пароль или логин",
+   "sr": "Pogrešno korisničko ime ili lozinka",
+   "en": "Incorrect login/password",
+   "de": "Falsches Passwort oder Login"
+ },
+ {
+   "key": "",
+   "ru": "Восстановление пароля",
+   "sr": "Promeniti lozinku",
+   "en": "Reset password",
+   "de": "Password wiederherstellen"
+ },
+ {
+   "key": "",
+   "ru": "На  _____ отправлена инструкция по восстановлению пароля. ",
+   "sr": "Na ____ je poslato uputstvo za promenu lozinke",
+   "en": "A reset email has been sent to _______.",
+   "de": "Auf _____ wurde eine Einleitung zur Wiederherstellung des Passwortes gesendet"
+ },
+ {
+   "key": "",
+   "ru": "На вашу электронную почту будет отправлена инструкция по восстановлению пароля. ",
+   "sr": "Na vašu mail adresu će biti poslato uputstvo za promenu lozinke",
+   "en": "A reset email will be sent to your email.",
+   "de": "Die Wiederherstellungsanleitung Ihres Passwortes wird an Sie per E-Mail gesendet"
+ },
+ {
+   "key": "",
+   "ru": "Тип пользователя",
+   "sr": "Tip korisnika",
+   "en": "User type",
+   "de": "Benutzertyp"
+ },
+ {
+   "key": "",
+   "ru": "Собственник или покупатель",
+   "sr": "Vlasnik ili kupac",
+   "en": "Owner or buyer",
+   "de": "Eigentümer oder Käufer"
+ },
+ {
+   "key": "",
+   "ru": "Агент",
+   "sr": "Agent",
+   "en": "Agent",
+   "de": "Makler"
+ },
+ {
+   "key": "",
+   "ru": "Агентство",
+   "sr": "Agencija",
+   "en": "Agency",
+   "de": "Agentur"
+ },
+ {
+   "key": "",
+   "ru": "Застройщик",
+   "sr": "Graditelji",
+   "en": "Developer",
+   "de": "Bauunternehmen"
+ },
+ {
+   "key": "",
+   "ru": "Мои объявления",
+   "sr": "Moji oglasi",
+   "en": "My ads",
+   "de": "Meine Anzeigen"
+ },
+ {
+   "key": "",
+   "ru": "Избранное",
+   "sr": "Odabrano",
+   "en": "Favourites",
+   "de": "Favoriten"
+ },
+ {
+   "key": "",
+   "ru": "Сохраненные поиски",
+   "sr": "Sačuvane pretrage",
+   "en": "Saved search",
+   "de": "Suchverlauf"
+ },
+ {
+   "key": "",
+   "ru": "Тарифы и опции",
+   "sr": "Tarife i opcije",
+   "en": "Rates and options",
+   "de": "Tarife und Optionen"
+ },
+ {
+   "key": "",
+   "ru": "Пополнение счета",
+   "sr": "Dopuna računa",
+   "en": "Deposit funds",
+   "de": "Guthaben aufladen"
+ },
+ {
+   "key": "",
+   "ru": "Сообщения",
+   "sr": "Poruke",
+   "en": "Messages",
+   "de": "Nachrichten"
+ },
+ {
+   "key": "",
+   "ru": "Вопросы риэлтору",
+   "sr": "Pitanja za rijeltora",
+   "en": "Ask the real estate broker",
+   "de": "Fragen an den Makler"
+ },
+ {
+   "key": "",
+   "ru": "Настройки профиля",
+   "sr": "Podešavanja profila",
+   "en": "Settings",
+   "de": "Profileinstellungen"
+ },
+ {
+   "key": "",
+   "ru": "Выйти",
+   "sr": "Izaći",
+   "en": "Log out",
+   "de": "Ausloggen"
+ },
+ {
+   "key": "",
+   "ru": "Статьи",
+   "sr": "Članci",
+   "en": "Articles",
+   "de": "Artikel"
+ },
+ {
+   "key": "",
+   "ru": "Пополнение счёта: выберите тип плательщика",
+   "sr": "Dopuna računa: izaberite tip korisnka",
+   "en": "Deposit funds: select payer type",
+   "de": "Guthaben aufladen: Zahlungsart auswählen"
+ },
+ {
+   "key": "",
+   "ru": "Введите способ пополнения счета: ",
+   "sr": "Unesite način dopune računa",
+   "en": "Select payment method",
+   "de": "Wie möchten Sie bezahlen:"
+ },
+ {
+   "key": "",
+   "ru": "Онлайн",
+   "sr": "Online",
+   "en": "Online",
+   "de": "Online"
+ },
+ {
+   "key": "",
+   "ru": "На расчетный счет",
+   "sr": "Na tekući račun",
+   "en": "To settlement account",
+   "de": "Mit der Karte"
+ },
+ {
+   "key": "",
+   "ru": "Ваш баланс",
+   "sr": "Vaš račun",
+   "en": "Balance",
+   "de": "Ihr Guthaben"
+ },
+ {
+   "key": "",
+   "ru": "История операций",
+   "sr": "Istorija operacija",
+   "en": "Transaction history",
+   "de": "Umsätze"
+ },
+ {
+   "key": "",
+   "ru": "Введите сумму для пополнения: ",
+   "sr": "Unesite iznos dopune",
+   "en": "Deposit amount:",
+   "de": "Geben Sie die Einzahlungssumme ein"
+ },
+ {
+   "key": "",
+   "ru": "Тип плательщика выбирается один раз и поменять его нельзя",
+   "sr": "Tip korisnika se bira jednom i ne može biti promenjen",
+   "en": "You can select the payer type only once. You will not be able to edit it.",
+   "de": "Der Zahlungstyp wird einmal ausgewählt und kann nicht geändert werden."
+ },
+ {
+   "key": "",
+   "ru": "Физическое лицо ",
+   "sr": "Fizičko lice",
+   "en": "Private",
+   "de": "Privatperson"
+ },
+ {
+   "key": "",
+   "ru": "Юридическое лицо ",
+   "sr": "Pravno lice",
+   "en": "Corporate",
+   "de": "Juristische Person"
+ },
+ {
+   "key": "",
+   "ru": "Выберите «юридическое лицо», если вы хотите получать бухгалтерские счета и закрывающие документы",
+   "sr": "Izaberite \"pravno lice\" ako želite da dobijate knjigovodstvene račune i dokumente za pokriće",
+   "en": "Please select \"Corporate\", if you want to get accounting records and closing documents",
+   "de": "Wählen Sie eine \"juristische Person\", wenn Sie Rechnungen und Abschlussbelege erhalten möchten"
+ },
+ {
+   "key": "",
+   "ru": "Доступный способ оплаты ",
+   "sr": "Dostupan način plaćanja",
+   "en": "Payment methods available",
+   "de": "Verfügbare Zahlungsmethoden"
+ },
+ {
+   "key": "",
+   "ru": "Банковский перевод на расчётный счёт",
+   "sr": "Transfer novca preko banke na tekući račun",
+   "en": "Bank transfer to settlement account",
+   "de": "Banküberweisung auf Girokonto"
+ },
+ {
+   "key": "",
+   "ru": "Сохранить и перейти к пополнению счета ",
+   "sr": "Sačuvati i nastaviti sa dopunom računa",
+   "en": "Confirm and pay",
+   "de": "Speichern Sie und gehen Sie zu Guthaben aufladen"
+ }
+]
