@@ -1,0 +1,366 @@
+@font-face {
+    font-family: "FranklinGothicBook";
+    src: url("./fonts/FranklinGothicBook.ttf");
+}
+
+@font-face {
+    font-family: "CenturyGothic";
+    src: url("./fonts/CenturyGothic.ttf");
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    padding: 0 17vw;
+    width: 100%;
+    height: fit-content;
+    font-family: "CenturyGothic";
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 23vw 0 19vw;
+    width: 100%;
+    height: 10rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: white;
+    z-index: 1488;
+    align-items: center;
+    transition: opacity .3s;
+    font-family: "FranklinGothicBook";
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+nav:hover {
+    opacity: 1 !important;
+}
+
+nav img {
+    width: 27%;
+}
+
+#navbar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 70%;
+
+    position: relative;
+    top: -6%;
+}
+
+#navbar a {
+    text-decoration: none;
+    font-size: 1rem;
+    margin-left: 2.8rem;
+    color: black;
+}
+
+#navbar a:hover {
+    text-decoration: underline;
+}
+
+#home {
+    margin-top: 9rem;
+    height: 45rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-image: url('./img/background1.png');
+    padding: 10% 13.5% 15% 8%;
+    display: flex;
+}
+
+#home .about-text {
+    width: 60%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 5rem 1rem 4.5rem 0;
+    font-weight: 600;
+}
+
+#home .about-text p {
+    font-size: 16px;
+}
+
+#home .about-text p:first-of-type {
+    font-size: 20px;
+}
+
+#home .about-photo {
+    width: 40%;
+    background-image: url('./img/photo.png');
+    background-size: 320%;
+    background-position: center 48%;
+    background-repeat: no-repeat;
+}
+
+.vertical-line { 
+    border-left: 2px solid black; 
+    height: 7rem; 
+    position: relative; 
+    left: 50%; 
+    margin-top: -20px;
+    width: 0;
+}
+
+.portfolio-headling {
+    margin: 0;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    font-size: 32px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-left: 1%;
+    font-weight: bold;
+}
+
+.logotips-headling {
+    margin: 0;
+    font-size: 23px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-left: 1%;
+    font-weight: bold;
+}
+
+.green-underline {
+    margin: 6px 44.5% 30px 45.5%;
+    border-bottom: 3px solid #339999;
+}
+
+#portfolio {
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+    padding-top: 4.8rem;
+    padding-bottom: 5rem;
+    margin-bottom: 10rem;
+}
+
+#portfolio #first {
+    width: 15.5%;
+    margin-left: -40px;
+}
+
+#portfolio #second {
+    background-repeat: no-repeat;
+    background-image: url('./img/Logo2.png');
+    width: 25.5%;
+    height: 200px;
+    background-position: 54% 56.5%;
+    background-size: 410%;
+    margin-right: 70px;
+}
+
+#portfolio #third {
+    width: 135px;
+    height: 145px;
+    margin-top: 10px;
+}
+
+#bla-bla {
+    height: 45rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-image: url('./img/background2.png');
+    padding: 7% 10% 15% 10%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3rem;
+}
+
+#bla-bla p {
+    color: #339999;
+    text-transform: uppercase;
+    font-size: 23px;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 6px;
+}
+
+#bla-bla .green-underline {
+    margin: 0 43% 30px 44%;
+    border-bottom: 3px solid #339999;
+}
+
+#bla-bla .corp-style-works {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#bla-bla .corp-style-works img:first-of-type {
+    width: 35%;
+    height: 83%;
+}
+
+#bla-bla .corp-style-works img:last-of-type {
+    width: 38%;
+}
+
+#third-green-underline {
+    margin-bottom: 8px;
+}
+
+#illustration {
+    width: 100%;
+}
+
+#show-more {
+    background-image: url('./img/background3.png');
+    outline: #339999;
+    padding: 2px 0;
+    width: 150px;
+    border-radius: 25%;
+    font-family: "CenturyGothic";
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    margin: 2rem 0 0 0;
+}
+
+#bla-bla2 {
+    height: 45rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-image: url('./img/background3.png');
+    padding: 25% 10% 5% 10%;
+    display: flex;
+    margin-bottom: 6rem;
+}
+
+#bla-bla2 #speech {
+    width: 50%;
+    padding: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    padding-right: 20px;
+}
+
+#bla-bla2 #speech .headling {
+    text-transform: uppercase; 
+    font-size: 20px; 
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+#bla-bla2 #speech p {
+    line-height: 170%;
+}
+
+#contact p:first-of-type {
+    margin-bottom: 0;
+    font-size: 16px;
+}
+
+#contact p:last-of-type {
+    margin-top: 0;
+    font-size: 14px;
+}
+
+#get-in-touch {
+    width: 50%;
+    background-image: url('./img/get-in-touch.png');
+    background-repeat: no-repeat;
+    background-position: 48% 58.5%;
+    background-size: 300%;
+}
+
+.black-underline {
+    margin: 0 10%;
+    border-bottom: 1px solid black;
+}
+
+#footer {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-image: url('./img/background3.png');
+    height: 25vh;
+    display: flex;
+    padding-right: 10%;
+}
+
+#footer .left-side {
+    width: 30%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#footer .left-side div {
+    width: 100%;
+    height: 60px;
+    background-image: url(./img/logo.png);
+    background-repeat: no-repeat;
+    background-position: center 40%;
+    background-size: 50%;
+}
+
+#footer .left-side p {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#footer .right-side {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+
+#footer .right-side #footer-navbar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 100%;
+    position: relative;
+    top: -6%;
+    height: 50%;
+}
+
+#footer .right-side #footer-navbar a {
+    text-decoration: none;
+    font-size: 1rem;
+    margin-left: 2.8rem;
+    color: black;
+    text-transform: uppercase;
+}
+
+#footer .right-side #footer-navbar a:hover {
+    text-decoration: underline;
+}
+
+#footer-icons {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#footer-icons img:first-of-type {
+    height: 25px;
+    width: 25px;
+}
+
+#footer-icons img:last-of-type {
+    height: 40px;
+    width: 40px;
+    margin-left: 1rem;
+    margin-right: 2rem;
+}
