@@ -141,32 +141,26 @@ nav img {
 
 #portfolio {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     height: 50vh;
-    padding-top: 4.8rem;
-    padding-bottom: 5rem;
     margin-bottom: 10rem;
+    padding: 4.8rem 3rem 5rem 5rem;
+}
+
+#portfolio img {
+    width: 10rem;
+    height: 11rem;
 }
 
 #portfolio #first {
-    width: 15.5%;
-    margin-left: -40px;
 }
 
 #portfolio #second {
-    background-repeat: no-repeat;
-    background-image: url('./img/Logo2.png');
-    width: 25.5%;
-    height: 200px;
-    background-position: 54% 56.5%;
-    background-size: 410%;
-    margin-right: 70px;
+    width: 12rem;
 }
 
 #portfolio #third {
-    width: 135px;
-    height: 145px;
-    margin-top: 10px;
+    
 }
 
 #bla-bla {
