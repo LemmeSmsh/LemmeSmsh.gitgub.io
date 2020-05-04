@@ -29,7 +29,7 @@ nav {
     background-repeat: no-repeat;
     background-size: contain;
     transition: opacity .3s;
-    background-position: -5% center;
+    background-position: left center;
 }
 
 #substrate-navbar {
@@ -102,8 +102,14 @@ button.show-more {
 
 @media only screen and (max-width: 1100px) {
 
+    body {
+        padding: 0 5%;
+    }
+
     nav {
         height: 2rem;
+        margin: 0 5vw;
+        width: 90vw;
     }
 
     #substrate-navbar {
@@ -117,7 +123,7 @@ button.show-more {
     }
 
     .container {
-        height: 15rem;
+        width: 90vw;
     }
 
     #big-gallery {
