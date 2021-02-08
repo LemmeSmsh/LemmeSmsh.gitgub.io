@@ -6,14 +6,14 @@ const content = document.querySelector('.content')
 
 function appendCube() {
     const cube = content.cloneNode(false)
-    cubeNew.classList.remove('show')
-    box.append(cubeNew)
-    console.log(cubeNew.className)
+    cube.classList.remove('show')
+    box.append(cube)
+    console.log(cube.className)
 }
 
 function createCubeBefore() {
-    cubeNew = content.cloneNode(false)
-    box.prepend(cubeNew)
+    const cube = content.cloneNode(false)
+    box.prepend(cube)
 }
 
 const options = {
@@ -25,7 +25,7 @@ const options = {
 const observer = new IntersectionObserver((unitCube, options) => {
     unitCube.forEach(cube => {
         if(cube.isIntersecting){
-            setTimeout(createCubeAppend(), 5000)
+            setTimeout(appendCube(), 5000)
             observer.unobserve(cube.target)
             observer.observe(document.querySelector('.content:last-child'))
             document.querySelector('.content:last-child').classList.add('show')
