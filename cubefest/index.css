@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    border: none;
+    box-sizing: border-box;
+    outline: none;
+    
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+
+    color: gray;
+
+    padding-top: 60px;
+
+    background: rgb(30, 30, 30);
+}
+
+/* main window */
+
+.window {
+    width: 100%;
+    height: 100%;
+
+    margin: 0px;
+
+    position: relative;
+}
+
+/* Navigation */
+
+.header {
+    width: 100%;
+    height: 60px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 3;
+
+    background-color: rgb(30, 30, 30);
+    border-bottom: 1px solid gray;
+}
+
+.logo {
+    margin: 0 20px;
+
+    font-size: 35px;
+    font-weight: 1000;
+
+    color: whitesmoke;
+}
+
+.navg {
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.navg_link {
+    color: gray;
+    text-decoration: none;
+
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 20px;
+
+    transition: color .1s linear;
+}
+
+.navg_link:hover {
+    color: white;
+}
+
+/* Conent window */
+
+.box {
+    width: 100%;
+    height: 100%;
+
+    position: relative;
+}
+
+.box > div {
+    width: 300px;
+    height: 300px;
+
+    margin: 30px auto;
+}
+
+.content {
+    opacity: 0;
+    transform: rotate(90);
+    background-color: gray;
+
+    transition: opacity 2.5s;
+}
+
+.content.show {
+    opacity: 1;
+    transform: rotate(0);
+    background-color: gray;
+}   
