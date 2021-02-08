@@ -4,16 +4,14 @@
 const box = document.querySelector('.box')
 const content = document.querySelector('.content')
 
-function appendCube() {
-    const cube = content.cloneNode(false)
-    cube.classList.remove('show')
-    box.append(cube)
-    console.log(cube.className)
+function createCubeAppend() {
+    cubeNew = content.cloneNode(false)
+    box.append(cubeNew)
 }
 
 function createCubeBefore() {
-    const cube = content.cloneNode(false)
-    box.prepend(cube)
+    cubeNew = content.cloneNode(false)
+    box.prepend(cubeNew)
 }
 
 const options = {
@@ -24,20 +22,42 @@ const options = {
 
 const observer = new IntersectionObserver((unitCube, options) => {
     unitCube.forEach(cube => {
-        if(cube.isIntersecting){
-            setTimeout(appendCube(), 5000)
+        if(cube.intersectionRatio > 0.1){
+            createCubeAppend()
             observer.unobserve(cube.target)
             observer.observe(document.querySelector('.content:last-child'))
-            document.querySelector('.content:last-child').classList.add('show')
-            document.querySelector('.content:first-child').remove()
-            console.log(cubeNew.className)
-        }      
+            shower.observe(document.querySelector('.content:last-child'))
+            // document.querySelector('.content:first-child').remove()
+        }
+        if(cube.isIntersecting){
+            document.querySelector('.content').classList.add('show')
+        } else {
+            document.querySelector('.content').classList.remove('show')
+        }
     })
 }, {
     threshold: 1
 })
 
 observer.observe(document.querySelector('.content:last-child'))
+
+const shower = new IntersectionObserver((showCube, options) => {
+    showCube.forEach(cccube => {
+        if(!cccube.isIntersecting){
+            cccube.target.classList.remove('show')
+        } else {
+            cccube.target.classList.add('show')
+        }
+    })
+}, {
+    threshold: 1
+})
+
+let cubes = document.querySelectorAll('.content')
+
+for(let cubeONwhach of cubes){
+    shower.observe(cubeONwhach)
+}
 
 // const observer2 = new IntersectionObserver((unitCube, options) => {
 //     unitCube.forEach(cube => {
